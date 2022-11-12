@@ -5,8 +5,8 @@ repo: upptime # The name of this repository
 sites:
   - name: PrivJs Safe UI
     url: https://safe.privjs.com
-  - name: PrivJs Safe API
-    url: https://api.secure.privjs.com
+  # - name: PrivJs Safe API
+  #   url: https://api.secure.privjs.com
   - name: PrivJs Safe Registry
     url: https://secure.privjs.com
 
