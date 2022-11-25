@@ -43,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/secure.privjs.com.ico",
     "slug": "priv-js-safe-registry",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 474,
-    "timeDay": 658,
+    "uptime": "99.80%",
+    "uptimeDay": "97.42%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
+    "time": 475,
+    "timeDay": 541,
     "timeWeek": 480,
-    "timeMonth": 474,
-    "timeYear": 474,
+    "timeMonth": 475,
+    "timeYear": 475,
     "dailyMinutesDown": {
-      "2022-11-25": 0
+      "2022-11-25": 37
     }
   }
 ]
