@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 325,
-    "timeDay": 165,
-    "timeWeek": 372,
-    "timeMonth": 325,
-    "timeYear": 325,
+    "time": 319,
+    "timeDay": 227,
+    "timeWeek": 292,
+    "timeMonth": 319,
+    "timeYear": 319,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.secure.privjs.com.ico",
     "slug": "priv-js-safe-api",
     "status": "up",
-    "uptime": "99.93%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
-    "time": 476,
-    "timeDay": 604,
-    "timeWeek": 487,
-    "timeMonth": 476,
-    "timeYear": 476,
-    "dailyMinutesDown": {
-      "2022-11-12": 12
-    }
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 467,
+    "timeDay": 329,
+    "timeWeek": 478,
+    "timeMonth": 467,
+    "timeYear": 467,
+    "dailyMinutesDown": {}
   },
   {
     "name": "PrivJs Safe Registry",
@@ -43,18 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/secure.privjs.com.ico",
     "slug": "priv-js-safe-registry",
     "status": "up",
-    "uptime": "99.80%",
-    "uptimeDay": "97.42%",
-    "uptimeWeek": "99.63%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "99.80%",
-    "time": 475,
-    "timeDay": 541,
-    "timeWeek": 480,
-    "timeMonth": 475,
-    "timeYear": 475,
-    "dailyMinutesDown": {
-      "2022-11-25": 37
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 468,
+    "timeDay": 436,
+    "timeWeek": 478,
+    "timeMonth": 468,
+    "timeYear": 468,
+    "dailyMinutesDown": {}
   }
 ]
