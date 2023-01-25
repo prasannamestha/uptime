@@ -22,10 +22,10 @@
     "url": "https://api.secure.privjs.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.secure.privjs.com.ico",
     "slug": "priv-js-safe-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 432,
@@ -33,16 +33,18 @@
     "timeWeek": 420,
     "timeMonth": 445,
     "timeYear": 432,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 1
+    }
   },
   {
     "name": "PrivJs Safe Registry",
     "url": "https://secure.privjs.com",
     "icon": "https://icons.duckduckgo.com/ip3/secure.privjs.com.ico",
     "slug": "priv-js-safe-registry",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
@@ -52,6 +54,7 @@
     "timeMonth": 444,
     "timeYear": 431,
     "dailyMinutesDown": {
+      "2023-01-25": 0,
       "2022-12-01": 102
     }
   }
