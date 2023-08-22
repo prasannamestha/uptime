@@ -42,9 +42,9 @@
     "slug": "priv-js-safe-registry",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 423,
     "timeDay": 392,
@@ -52,7 +52,6 @@
     "timeMonth": 424,
     "timeYear": 423,
     "dailyMinutesDown": {
-      "2023-08-21": 5,
       "2023-01-25": 30,
       "2022-12-01": 102
     }
