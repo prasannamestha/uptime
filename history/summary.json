@@ -6,17 +6,15 @@
     "slug": "priv-js-safe-ui",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 196,
-    "timeDay": 189,
-    "timeWeek": 199,
-    "timeMonth": 187,
+    "timeDay": 210,
+    "timeWeek": 203,
+    "timeMonth": 186,
     "timeYear": 202,
-    "dailyMinutesDown": {
-      "2025-07-23": 5
-    }
+    "dailyMinutesDown": {}
   }
 ]
