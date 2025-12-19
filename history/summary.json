@@ -4,7 +4,7 @@
     "url": "https://safe.privjs.com",
     "icon": "https://icons.duckduckgo.com/ip3/safe.privjs.com.ico",
     "slug": "priv-js-safe-ui",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -13,7 +13,7 @@
     "time": 220,
     "timeDay": 188,
     "timeWeek": 205,
-    "timeMonth": 325,
+    "timeMonth": 328,
     "timeYear": 236,
     "dailyMinutesDown": {
       "2025-10-26": 25,
